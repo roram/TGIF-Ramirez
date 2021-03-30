@@ -1,0 +1,57 @@
+/* ESTILO NAV */
+.divEst
+{
+   background-color:#033683;
+}
+.paddMenu{
+   padding: 2vh 3vw 2vh 3vw;
+   font-size: large;
+}
+.cTxtNav
+{
+   color:#ffffff;
+}
+.active{
+   background-color:#FF0000;
+}
+.cTabNav:hover
+{
+   background-color:#02275E;
+}
+.cTxtSubNav
+{
+   border:2px solid #022D6D;
+   background-color:#022D6D;
+}
+/* ESPACIO h1 */
+.espArr
+{
+   margin:3vh 0 0 0;
+}
+.card
+{
+   border:none;
+   padding:0;
+}
+.btnRead{
+   background-color:#022D6D;
+}
+.btnRead:hover{
+   background-color:#02275E;
+}
+.btnRead:active, .btnRead:focus, .btnRead:target{
+   background-color:#02275E;
+   outline: none;
+   box-shadow: none;
+}
+/* FOOTER STYLE */
+.divAlt
+{
+   height: 10vh;
+   background-color:#022D6D;
+   color:white;
+}
+/* COLOR DROWDOWN MENU ARROW */
+.dropdown-toggle, .dropdown-toggle:hover {
+   color:white;
+}
